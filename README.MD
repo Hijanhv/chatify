@@ -2,7 +2,13 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Highlights:
+## 🌐 Live Demo
+
+**[Try it live here!](https://chatify-suju.onrender.com)**
+
+---
+
+## Highlights:
 
 - 🔐 Custom JWT Authentication (no 3rd-party auth)
 - ⚡ Real-time Messaging via Socket.io
