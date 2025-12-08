@@ -6,6 +6,10 @@
 
 **[Try it live here!](https://chatify-suju.onrender.com)**
 
+## 📺 Video Tutorial
+
+**[Watch the full tutorial on YouTube](https://youtu.be/bR4b_Io8shE?si=8zQ36slLD0Yb9Zt7)**
+
 ---
 
 ## Highlights:
